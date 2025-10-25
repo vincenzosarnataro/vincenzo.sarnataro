@@ -1,0 +1,82 @@
+{
+  "my_name": "Vincenzo Sarnataro",
+  "role_job": "Android & Flutter Developer",
+  "role_description": "I transform ideas into elegant, high-performance, and intuitive mobile apps. I specialize in creating native Android and cross-platform user experiences with Flutter.",
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "career": "Career",
+    "projects": "Projects",
+    "contacts": "Contacts"
+  },
+  "about_me": "About me",
+  "about_me_content": "I’m an Android and Flutter developer with over 10 years of experience building intuitive and high-quality mobile apps. Passionate about creating seamless user experiences, I manage the entire development lifecycle—from design to implementation—while keeping a strong focus on clean code, innovation, and technical excellence.\n\nThroughout my career, I’ve worked on a wide range of projects: from custom apps for small businesses to complex enterprise solutions for major companies such as Telepass. I thrive on exploring new technologies and leveraging the latest trends to deliver creative, impactful solutions.\n\nAlways curious and driven, I’m committed to continuous learning and growth to stay at the forefront of mobile development.",
+  "about_me_skills": "My skills",
+  "career_title": "Professional Career",
+  "career": {
+    "1": {
+      "title": "Specialist Software Engineer (Android,Flutter)",
+      "company": "Dst - Creative Tech Company",
+      "date": "01/2025 - Ongoing",
+      "description": "Leading the development of high-performance native and cross-platform applications. Mentoring junior developers and defining software architecture best practices."
+    },
+    "2": {
+      "title": "Staff Software Engineer Android",
+      "company": "Telepass",
+      "date": "01/2022 - 12/2024",
+      "description": "I contributed to the development and evolution of the Telepass, TBusiness, and Telepass X apps, integrating new services, adding Android Auto support, and optimizing the architecture, adopted technologies, and development pipelines."
+    },
+    "3": {
+      "title": "Android-Flutter Developer",
+      "company": "Spindox",
+      "date": "03/2020 - 02/2022",
+      "description": ""
+    },
+    "4": {
+      "title": "Android Developer",
+      "company": "Sysdata S.p.A.",
+      "date": "05/2018 - 04/2020",
+      "description": ""
+    },
+    "5": {
+      "title": "Android Developer",
+      "company": "Wiman",
+      "date": "03/2017 - 05/2018",
+      "description": ""
+    },
+    "6": {
+      "title": "Mobile Developer, Backend Developer",
+      "company": "Enterprise Digital Solutions s.r.l.",
+      "date": "09/2016 - 03/2017",
+      "description": ""
+    },
+    "7": {
+      "title": "Mobile Developer, Backend Developer",
+      "company": "NeaLogic",
+      "date": "01/2016 - 09/2016",
+      "description": ""
+    }
+  },
+  "my_projects": "My projects",
+  "stack": "STACK: ",
+  "projects": {
+    "1": {
+      "title": "Solight - Golden hour tracker",
+      "description":"Your Essential Guide to Golden and Blue Hour"
+    },
+    "2": {
+      "title": "My Bus - Bus Tracker Bologna",
+      "description":"View bus arrivals in real time, so you know exactly when your ride will arrive."
+    },
+    "3": {
+      "title": "Flutter Find - Apps finder",
+      "description":"A tool designed to find Flutter-built applications installed on their devices."
+    },
+    "4": {
+      "title": "UsersKMP",
+      "description":"Users App is a Kotlin Multiplatform (KMP) project that showcases a simple user listing and detail feature, following Clean Architecture principles."
+    }
+  },
+  "contacts": "Let's get in contact.",
+  "contacts_info":"I’m always open to new opportunities and collaborations. If you have an interesting idea or just want to say hi, feel free to reach out!"
+}
