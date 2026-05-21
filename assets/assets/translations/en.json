@@ -77,6 +77,9 @@
       "description":"Users App is a Kotlin Multiplatform (KMP) project that showcases a simple user listing and detail feature, following Clean Architecture principles."
     }
   },
-  "contacts": "Let's get in contact.",
-  "contacts_info":"I’m always open to new opportunities and collaborations. If you have an interesting idea or just want to say hi, feel free to reach out!"
+  "contacts": "Let’s get in contact.",
+  "contacts_info":"I’m always open to new opportunities and collaborations. If you have an interesting idea or just want to say hi, feel free to reach out!",
+  "view_projects": "View Projects",
+  "contact_me": "Contact Me",
+  "email_me": "Email Me"
 }
